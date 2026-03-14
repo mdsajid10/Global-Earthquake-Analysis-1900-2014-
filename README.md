@@ -1,6 +1,6 @@
 # 🌋 Global Earthquake Analysis (1900-2014)
 
-![Earthquake Analysis Dashboard](dashboard_preview.png)
+![Earthquake Analysis Dashboard](Screenshot 2026-03-14 175300.png)
 
 ## 📖 Project Overview
 This project provides a comprehensive exploration of global seismic activity over nearly a century (1900-2014). By leveraging a massive dataset of ~8,300 earthquake records, we analyze the relationship between earthquake magnitude, depth, and geographical frequency to identify high-risk zones across the globe.
@@ -9,7 +9,7 @@ This project provides a comprehensive exploration of global seismic activity ove
 
 ## 🛠️ Tech Stack & Source
 - **Visualization Tool**: Tableau Desktop / Packaged Workbook (`.twbx`)
-- **Data Source**: [USGS Earthquake Database via Kaggle](https://www.kaggle.com/datasets/usgs/earthquake-database)
+- **Data Source**: [USGS Earthquake Database via Kaggle](https://www.kaggle.com/datasets/varunsaikanuri/earthquakes-from-1900-2013)
 - **Data Format**: CSV (containing Latitude, Longitude, Mag, Depth, etc.)
 
 ---
