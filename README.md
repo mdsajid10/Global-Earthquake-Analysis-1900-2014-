@@ -1,6 +1,6 @@
 # 🌋 Global Earthquake Analysis (1900-2014)
 
-![Earthquake Analysis Dashboard](Screenshot 2026-03-14 175300.png)
+![Earthquake Analysis Dashboard](pic.png)
 
 ## 📖 Project Overview
 This project provides a comprehensive exploration of global seismic activity over nearly a century (1900-2014). By leveraging a massive dataset of ~8,300 earthquake records, we analyze the relationship between earthquake magnitude, depth, and geographical frequency to identify high-risk zones across the globe.
