@@ -40,7 +40,7 @@ The final dashboard (`Earthquake Analysis.twbx`) is composed of four key analyti
 ## 📁 Repository Structure
 - `Earthquakes.csv`: The processed raw dataset.
 - `Earthquake Analysis.twbx`: The interactive Tableau dashboard file.
-- `dashboard_preview.png`: Preview image of the final analysis.
+- `pic.png`: Preview image of the final analysis.
 
 ---
 
